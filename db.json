@@ -1,0 +1,12 @@
+{
+    "routes": [
+        {
+            "id": 1,
+            "name": "first Route"
+        },
+        {
+            "id": 2,
+            "name": "second Route"
+        }
+    ]
+}
